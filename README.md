@@ -1,6 +1,8 @@
 # nba_CLI
 A CLI client to stay up to date with the NBA
 
+## Credit to user xxhomey19 for the base of this and other NBA application resources.
+
 
 Watch NBA live play-by-play, game preview, box score and player information on your console.  
 Best CLI tool for those who are both **NBA fans** and **Engineers**.
@@ -9,7 +11,7 @@ All data comes from [stats.nba.com](http://stats.nba.com/) APIs.
 
 ## Install
 
-In order to use nba-go, make sure that you have [Node](https://nodejs.org/) version 6.0.0 or higher.
+In order to use nba_CLI, make sure that you have [Node](https://nodejs.org/) version 6.0.0 or higher.
 
 ```
 $ npm install -g nba-go
